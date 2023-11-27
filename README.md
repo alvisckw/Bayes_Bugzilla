@@ -11,7 +11,7 @@ It is the **Final Course Project** of SMM695 Data Management Systems module for 
 - To perform insightful data analysis
 
 ## Code Explanation
-- Imported Bugzilla .pickle data into MongoDB
+- Imported Bugzilla .pickle data into MongoDB (data can be found [here](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155109873_link_cuhk_edu_hk/ET6MS1KYkMVKhp2i_eKCd5QBiTNzBYcG-zkHWh48ewtoDQ?e=wg5Kuk))
 - Explored the data structure of "cf_status_" and "cf_tracking_" fields
 - Re-structured the fields
 - Conducted descriptive analysis on those fields
